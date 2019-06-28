@@ -1,0 +1,573 @@
+@media (max-width: 2000px){
+    .mobile-bnt{
+        display: none;
+    }
+}
+@media (max-width: 1200px){
+
+}
+@media (max-width: 992px){
+    .mobile-bnt{
+        display: none;
+    }
+    .list-items.active{
+        display: none;
+    }
+    #about {
+        padding: 70px 0;
+    }
+    .about-title h2 {
+        font-size: 27px;
+        margin-bottom: 30px;
+    }
+    .about-intro {
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .about-list {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    #team{
+        padding: 70px 0;
+    }
+    .section_title {
+        font-size: 40px;
+        margin-bottom: 15px;
+    }
+    .caption h3 {
+        font-size: 19px;
+        margin-top: 28px;
+    }
+    #service {
+        padding: 70px 0;
+    }
+    .section-title1 {
+        font-size: 40px;
+        margin-bottom: 60px;
+    }
+    .section-title1:before{
+        bottom: -15px;
+        height: 3px;
+    }
+    .section-title1:after{
+        bottom: -30px;
+        height: 3px;
+    }
+    .ppp{
+        font-size: 15px;
+        margin-bottom: 60px;
+    }
+    .web h3 {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+    .web p {
+        font-size: 15px;
+    }
+    #clients{
+        padding: 70px 0;
+    }
+    .clients-title{
+        font-size: 40px;
+    }
+    .clients-title:before{
+        bottom: -15px;
+        height: 3px;
+    }
+    .clients-title:after{
+        bottom: -30px;
+        height: 3px;
+    }
+    .brent li {
+        display: block;
+        padding: 70px 34px 0 0;
+    }
+    #portfolio {
+        padding: 70px 0;
+    }
+    .work-title{
+        font-size: 40px;
+        margin-bottom: 60px;
+    }
+    .work-title:before{
+        bottom: -15px;
+        height: 3px;
+    }
+    .work-title:after{
+        bottom: -30px;
+        height: 3px;
+    }
+    .work-titles {
+        font-size: 15px;
+        margin-bottom: 60px;
+    }
+    #client-s {
+        padding: 70px 0;
+    }
+    .testi-title {
+        font-size: 40px;
+        margin-bottom: 60px;
+    }
+    .testi-title:before{
+        bottom: -15px;
+        height: 3px;
+    }
+    .testi-title:after{
+        bottom: -30px;
+        height: 3px;
+    }
+    .book h5 {
+        font-size: 15px;
+    }
+    .testimonial p {
+        color: red;
+        font-size: 17px;
+        margin: 25px 0;
+    }
+    #contact {
+        padding: 70px 0;
+    }
+    .free-title {
+        font-size: 40px;
+        margin-bottom: 60px;
+    }
+    .free-title:before{
+        bottom: -15px;
+        height: 3px;
+    }
+    .free-title:after{
+        bottom: -30px;
+        height: 3px;
+    }
+    .free {
+        font-size: 15px;
+        margin-bottom: 40px;
+    }
+    .name{
+        margin: 0 0 15px 0;
+    }
+    .header_content {
+        z-index: 0;
+    }
+
+}
+@media (max-width: 760px){
+    .list-item{
+        font-size: 14px;
+        padding: 10px 0;
+    }
+    .mobile-bnt{
+        display: flex;
+        position: fixed;
+        top: 48px;
+    }
+    .list-items.active{
+        display: flex;
+    }
+    .list-items {
+        display: none;
+    }
+    .header-title {
+        font-size: 40px;
+    }
+    .header_content p {
+        font-size: 17px;
+    }
+    .arrow_down{
+        bottom: 20%;
+    }
+    #about {
+        padding: 55px 0;
+    }
+    .about-text {
+        padding-left: 0;
+    }
+    .about-title h4 {
+        font-size: 22px;
+    }
+    .about-title h2 {
+        font-size: 32px;
+        margin-bottom: 30px;
+    }
+    .about-intro {
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+    .about-list {
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+    #team{
+        padding: 55px 0;
+    }
+    .section_title {
+        font-size: 40px;
+        margin-bottom: 0;
+    }
+    .section_title:before{
+        bottom: -10px;
+        height: 3px;
+    }
+    .section_title:after{
+        bottom: -25px;
+        height: 3px;
+    }
+    .team{
+        margin-top: 40px;
+    }
+    .caption h3{
+        margin-top: 20px;
+    }
+    .marg{
+        padding: 10px 60px;
+    }
+    #service {
+        padding: 50px 0;
+    }
+    .section-title1 {
+        font-size: 35px;
+        margin-bottom: 50px;
+    }
+    .section-title1:before {
+        bottom: -15px;
+        height: 3px;
+    }
+    .section-title1:after{
+        bottom: -25px;
+        height: 3px;
+    }
+    .ppp{
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .web h3 {
+        font-size: 22px;
+        margin-bottom: 10px;
+    }
+    .web p {
+        font-size: 14px;
+        padding: 0 50px;
+    }
+    #clients{
+        padding: 50px 0;
+    }
+    .clients-title {
+        font-size: 40px;
+    }
+    .clients-title:before {
+        bottom: -15px;
+        height: 3px;
+    }
+    .clients-title:after{
+        bottom: -30px;
+        height: 3px;
+    }
+    .brent li {
+        display: inline-block;
+        padding: 90px 34px 0 0;
+    }
+    #portfolio {
+        padding: 50px 0;
+    }
+    .work-title {
+        font-size: 37px;
+        margin-bottom: 50px;
+    }
+    .work-title:before {
+        bottom: -15px;
+        height: 3px;
+    }
+    .work-title:after{
+        bottom: -30px;
+        height: 3px;
+    }
+    .work-titles {
+        font-size: 15px;
+        margin-bottom: 50px;
+    }
+    .filter {
+        font-size: 15px;
+    }
+    .nav-works a {
+        font-size: 15px;
+    }
+    .nav-works {
+        margin-right: 5px;
+    }
+    .nav-works {
+        padding: 0 0 0 10px;
+    }
+    #client-s {
+        padding: 50px 0;
+    }
+    .testi-title {
+        font-size: 38px;
+        margin-bottom: 60px;
+    }
+    .testi-title:before{
+        bottom: -15px;
+        height: 3px;
+    }
+    .testi-title:after{
+        bottom: -30px;
+        height: 3px;
+    }
+    .book h5{
+        font-size: 14px;
+    }
+    .testimonial p {
+        font-size: 15px;
+        margin: 20px 0;
+    }
+    #contact {
+        padding: 50px 0;
+    }
+    .free-title{
+        font-size: 40px;
+        margin-bottom: 55px;
+    }
+    .free-title:before {
+        bottom: -15px;
+        height: 3px;
+    }
+    .free-title:after{
+        bottom: -30px;
+        height: 3px;
+    }
+    .free {
+        font-size: 15px;
+        margin-bottom: 50px;
+    }
+    .app-it1{
+        margin-right: 5px;
+    }
+    .app-it2{
+        margin-right: 5px;
+    }
+    .app-it3{
+        margin-right: 5px;
+    }
+    .app-it4{
+        margin-right: 5px;
+    }
+}
+@media (max-width: 576px){
+    .header-title {
+        font-size: 25px;
+    }
+    .list-items.active{
+        display: flex;
+    }
+    .header_content p {
+        font-size: 13px;
+    }
+    #about {
+        padding: 20px 0;
+    }
+    .about-text {
+        padding-left: 0;
+    }
+    .about-title h4 {
+        font-size: 18px;
+        margin: 0;
+    }
+    .about-title h2 {
+        font-size: 22px;
+        margin-bottom: 25px;
+    }
+    .about-title h2:before {
+        width: 65px;
+        height: 3px;
+    }
+    .about-intro {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .about-list {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .far{
+        font-size: 10px;
+        margin-right: 5px;
+    }
+    #team{
+        padding: 20px 0;
+    }
+    .section_title {
+        font-size: 25px;
+        margin-bottom: 20px;
+
+    }
+    .section_title:before {
+        bottom: -10px;
+        height: 3px;
+        width: 70px;
+    }
+    .section_title:after{
+        bottom: -20px;
+        height: 3px;
+        width: 50px;
+    }
+    .team {
+        margin-top: 50px;
+    }
+    #service {
+        padding: 20px 0;
+    }
+    .section-title1 {
+        font-size: 20px;
+        margin-bottom: 50px;
+    }
+    .section-title1:before {
+        bottom: -10px;
+        height: 3px;
+        width: 70px;
+    }
+    .section-title1:after{
+        bottom: -20px;
+        height: 3px;
+        width: 50px;
+    }
+    .ppp {
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+    .web h3 {
+        font-size: 20px;
+    }
+    #clients{
+        padding: 20px 0;
+    }
+    .clients-title {
+        font-size: 25px;
+        margin-bottom: 65px;
+    }
+    .clients-title:before{
+        bottom: -10px;
+        height: 3px;
+        width: 70px;
+    }
+    .clients-title:after{
+        bottom: -20px;
+        height: 3px;
+        width: 50px;
+    }
+    .brent li{
+        padding: 0 0 45px 0;
+        display: block;
+    }
+    .brent-img{
+        width: 125px;
+    }
+    #portfolio {
+        padding: 20px 0;
+        text-align: center;
+    }
+    .navi {
+        display: inline;
+    }
+    .filter{
+        font-size: 13px;
+        text-align: left;
+    }
+    .nav-works a {
+        font-size: 12px;
+        display: block;
+    }
+    .nav-work{
+        text-align: left;
+        margin-bottom: 10px;
+    }
+    .work-title{
+        font-size: 20px;
+        margin-bottom: 45px;
+    }
+    .work-title:before {
+        bottom: -10px;
+        height: 3px;
+        width: 70px;
+    }
+    .work-title:after {
+        bottom: -20px;
+        height: 3px;
+        width: 50px;
+    }
+    .work-titles {
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+    #client-s {
+        padding: 20px 0;
+    }
+    .testi-title:before{
+        bottom: -10px;
+        width: 70px;
+        height: 3px;
+    }
+    .testi-title:after{
+        bottom: -20px;
+        width: 50px;
+        height: 3px;
+    }
+    .testi-title {
+        font-size: 20px;
+        margin-bottom: 50px;
+    }
+    .book h5{
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .testimonial p {
+        font-size: 12px;
+        margin: 20px 0;
+    }
+    #contact {
+        padding: 20px 0;
+    }
+    .free-title{
+        font-size: 20px;
+        margin-bottom: 30px;
+    }
+    .free-title:before{
+        bottom: -10px;
+        height: 3px;
+        width: 70px;
+    }
+    .free-title:after{
+        bottom: -20px;
+        height: 3px;
+        width: 50px;
+    }
+    .free {
+        font-size: 12px;
+        margin-bottom: 15px;
+    }
+    .forma h6{
+        font-size: 12px;
+    }
+    .name{
+        font-size: 12px;
+        margin: 0 0 10px 0;
+    }
+    .btn{
+        padding: 5px 35px;
+    }
+    #footer {
+        padding: 22px 0;
+    }
+    .bettwin{
+        display: inline;
+        text-align: center;
+    }
+    .left-footer {
+        font-size: 11px;
+        margin-bottom: 10px;
+    }
+    .apps {
+        display: flex;
+        justify-content: center;
+        float: none;
+    }
+}
